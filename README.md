@@ -4,3 +4,7 @@
 - [SQLite DB browser](https://sqlitebrowser.org/dl/)
 - [install SQLite](https://www.sqlitetutorial.net/download-install-sqlite/)
 - [sqlitetutorial](https://www.sqlitetutorial.net/)
+
+## Diagram
+
+![](./images/diagram.jpg)
